@@ -4,9 +4,6 @@ prova = Exercicio 1
 
 passo a passo dos exercicios:
 
-# Prova-Java-Odair
-
-Prova = Exercicio 1
 # Ex1: 
 Passo 1. Importação da classe Scanner
 
