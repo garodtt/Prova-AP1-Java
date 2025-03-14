@@ -4,7 +4,10 @@ prova = Exercicio 1
 
 passo a passo dos exercicios:
 
-Ex1: 
+# Prova-Java-Odair
+
+Prova = Exercicio 1
+# Ex1: 
 Passo 1. Importação da classe Scanner
 
 Passo 2. Leitura da temperatura em Celsius
@@ -15,7 +18,7 @@ Passo 4. Exibição do resultado
 
 Passo 5. Fechamento do scanner
 
-EX2:
+# EX2:
 Passo 1. Importação da classe Scanner
 
 Passo 2. Leitura da temperatura em Fahrenheit
@@ -26,7 +29,7 @@ Passo 4. Exibição do resultado
 
 Passo 5. Fechamento do scanner
 
-EX3:
+# EX3:
 Passo 1. Importação da classe Scanner
 
 Passo 2. Leitura do peso do usuário
@@ -39,7 +42,7 @@ Passo 5. Exibição do IMC
 
 Passo 6. Fechamento do scanner
 
-EX4:
+# EX4:
 Passo 1. Importação da classe Scanner
 
 Passo 2. Leitura do valor
@@ -52,7 +55,7 @@ Passo 5. Exibição do valor ao quadrado e ao cubo
 
 Passo 6. Fechamento do scanner
 
-EX5:
+# EX5:
 Passo 1. Importação da classe Scanner
 
 Passo 2. Leitura da base do triângulo
@@ -65,7 +68,7 @@ Passo 5. Exibição da área
 
 Passo 6. Fechamento do scanner
 
-EX6:
+# EX6:
 Passo 1. Importação da classe Scanner
 
 Passo 2. Exibição da equação quadrática para o usuário
@@ -81,3 +84,4 @@ Passo 6. Cálculo e exibição do valor de x1 (-b + √Δ) / (2a)
 Passo 7. Cálculo e exibição do valor de x2 (-b - √Δ) / (2a)
 
 Passo 8. Fechamento do scanner
+
